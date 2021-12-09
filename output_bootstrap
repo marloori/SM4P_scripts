@@ -1,0 +1,6 @@
+../statistics/bin/python3.9 bootstrap_ex.py 
+True value: 4.140000000000001, 10 iterations bootstrap result:        5.01, 10 iterations corrected bootstrap result:        3.3
+True value: 4.140000000000001, 100 iterations bootstrap result:        5.199999999999999, 100 iterations corrected bootstrap result:        3.47
+True value: 4.140000000000001, 1000 iterations bootstrap result:        3.4099999999999993, 1000 iterations corrected bootstrap result:        5.24
+True value: 4.140000000000001, 10000 iterations bootstrap result:        2.82, 10000 iterations corrected bootstrap result:        4.130000000000001
+True value: 4.140000000000001, 100000 iterations bootstrap result:        3.8200000000000003, 100000 iterations corrected bootstrap result:        4.340000000000001
